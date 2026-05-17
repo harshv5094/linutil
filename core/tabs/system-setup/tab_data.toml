@@ -80,6 +80,13 @@ task_list = "I MP"
 multi_select = false
 
 [[data.entries]]
+name = "Mango-Titus"
+description = "A simple MangoWC configuration by Chris Titus using Noctalia shell."
+script = "arch/mango-titus.sh"
+task_list = "I MP"
+multi_select = false
+
+[[data.entries]]
 name = "Paru AUR Helper"
 description = "Paru is your standard pacman wrapping AUR helper with lots of features and minimal interaction. To know more about AUR helpers visit: https://wiki.archlinux.org/title/AUR_helpers"
 script = "arch/paru-setup.sh"
